@@ -1,5 +1,9 @@
 # Post-Mortem of the Incident Exercise
-## Chat File
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YB5nYhHORvI
+" target="_blank"><img src="http://img.youtube.com/vi/YB5nYhHORvI/0.jpg" 
+alt="Post-Mortem of the Incident Exercise" width="240" height="180" border="10" /></a>
+
+## Discussion
 - 09:11:20	 From  WallabyCurtis : James and Didar both have similar theme to their style today.
 - 09:27:09	 From  Nick Drage : James makes an excellent point - the lack of adversary in these exercises is a typical omission, and also these exercises tend to be only aimed at management.
 - 09:40:40	 From  Didar Gelici : gamification - work it with threat modelling - dungeon and dragons style, a dungeon master - randomness introduced by cards - fictitious  scenario on a fictitious company to avoid internal vengeance/politics -  randomise the roles in the teams as well, helps understanding different perspectives
